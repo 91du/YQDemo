@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YQDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Button1">Button1</string>
+    <string name="Button2">Button2</string>
+    <string name="LauncherApp">启动第三方app</string>
+    <string name="GetAppInfo">GetAppInfo</string>
+    <string name="SetSharedPrefences">SetSharedPrefences</string>
+      <string name="GetSharedPrefences">GetSharedPrefences</string>
+
+</resources>

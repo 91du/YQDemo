@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.yq.demo.MainActivity" >
+    
+<!-- 	<TextView 
+	    android:id="@+id/tv"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    />
+    <ProgressBar
+        android:layout_below="@id/tv"
+        android:id="@+id/proBar_download"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/download"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/proBar_download"
+        android:text="Download" />
+
+    <Button
+        android:id="@+id/pause"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/proBar_download"
+        android:layout_toRightOf="@id/download"
+        android:text="pause" /> -->
+
+    <Button
+        android:id="@+id/Button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Button1" />
+
+</RelativeLayout>
