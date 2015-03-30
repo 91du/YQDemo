@@ -1,4 +1,4 @@
-package com.yq.demo.fragmentviewpage;
+package com.yq.demo.fragmentViewpage;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -3,42 +3,48 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical" >
-    
-    <LinearLayout 
+
+    <LinearLayout
         android:id="@+id/LinearLayout1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal" >
-        
-       <Button
-		android:id="@+id/getAppInfo"
-		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
-		android:text="@string/GetAppInfo"/>
-      <Button
-		android:id="@+id/LauncherApp"
-		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
-		android:text="@string/LauncherApp"/>
-      <Button 
-          android:id="@+id/fragment_demo"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          android:text="Fragment详解"/>
-      
+
+        <Button
+            android:id="@+id/jump_get_app_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/GetAppInfo" />
+
+        <Button
+            android:id="@+id/jump_launcher_app"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/LauncherApp" />
+
+        <Button
+            android:id="@+id/jump_fragment_demo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fragment详解" />
     </LinearLayout>
-        <LinearLayout 
+
+    <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal" >
-        
-     <Button
-		android:id="@+id/sharedpreferences"
-		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
-		android:text="@string/SetSharedPrefences"/> 
-      
+
+        <Button
+            android:id="@+id/jump_sharedpreferences"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/SetSharedPrefences" />
+
+        <Button
+            android:id="@+id/jump_downLoad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/downLoad" />
     </LinearLayout>
-    
-      
+
 </LinearLayout>

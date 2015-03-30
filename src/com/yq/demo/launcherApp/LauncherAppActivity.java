@@ -16,7 +16,7 @@ public class LauncherAppActivity extends Activity implements OnClickListener {
     protected void onCreate(Bundle savedInstanceState) {
         // TODO Auto-generated method stub
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.launcher_app_activity);
+        setContentView(R.layout.activity_launcher_app);
         button = (Button) findViewById(R.id.Button1);
         button.setOnClickListener(this);
     }

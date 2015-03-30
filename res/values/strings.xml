@@ -9,6 +9,7 @@
     <string name="LauncherApp">启动第三方app</string>
     <string name="GetAppInfo">GetAppInfo</string>
     <string name="SetSharedPrefences">SetSharedPrefences</string>
-      <string name="GetSharedPrefences">GetSharedPrefences</string>
+    <string name="GetSharedPrefences">GetSharedPrefences</string>
+    <string name="downLoad">下载</string>
 
 </resources>

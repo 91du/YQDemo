@@ -42,9 +42,10 @@
         </activity>
         <activity android:name="com.yq.demo.getAppInfo.AllAppActivity" />
         <activity android:name="com.yq.demo.launcherApp.LauncherAppActivity" />
-        <activity android:name="com.yq.demo.SetSharedPreferences"  />
-        <activity android:name="com.yq.demo.fragmentviewpage.FragmentMainActivity"  />
-        <activity android:name="com.yq.demo.playvideo.PlayVideo"  />
+        <activity android:name="com.yq.demo.sharedPrefernces.SetSharedPreferences"  />
+        <activity android:name="com.yq.demo.fragmentViewpage.FragmentMainActivity"  />
+        <activity android:name="com.yq.demo.playVideo.PlayVideo"  />
+        <activity android:name="com.yq.demo.downLoad.DownLoad" />
     </application>
 
 </manifest>

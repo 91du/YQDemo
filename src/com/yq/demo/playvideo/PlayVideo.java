@@ -1,4 +1,4 @@
-package com.yq.demo.playvideo;
+package com.yq.demo.playVideo;
 
 import android.app.Activity;
 import android.net.Uri;
